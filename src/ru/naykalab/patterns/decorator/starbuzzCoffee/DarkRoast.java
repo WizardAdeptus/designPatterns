@@ -1,4 +1,4 @@
-package ru.naykalab.patterns.decorator;
+package ru.naykalab.patterns.decorator.starbuzzCoffee;
 
 
 public class DarkRoast extends Beverage{
