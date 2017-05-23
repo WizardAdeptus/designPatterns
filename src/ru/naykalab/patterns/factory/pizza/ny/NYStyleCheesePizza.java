@@ -1,5 +1,7 @@
-package ru.naykalab.patterns.factory;
+package ru.naykalab.patterns.factory.pizza.ny;
 
+
+import ru.naykalab.patterns.factory.pizza.Pizza;
 
 public class NYStyleCheesePizza extends Pizza {
     public NYStyleCheesePizza() {
