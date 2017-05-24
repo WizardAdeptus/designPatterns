@@ -1,4 +1,4 @@
-package ru.naykalab.patterns.factory;
+package ru.naykalab.patterns.factory.pizza.chicago;
 
 import ru.naykalab.patterns.factory.pizza.Pizza;
 

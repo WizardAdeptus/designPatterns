@@ -1,6 +1,10 @@
-package ru.naykalab.patterns.factory;
+package ru.naykalab.patterns.factory.store.factoryMethod;
 
 
+import ru.naykalab.patterns.factory.pizza.chicago.ChicagoStylePepperoniPizza;
+import ru.naykalab.patterns.factory.pizza.chicago.ChicagoStyleClamPizza;
+import ru.naykalab.patterns.factory.pizza.chicago.ChicagoStyleCheesePizza;
+import ru.naykalab.patterns.factory.pizza.chicago.ChicagoStyleVeggiePizza;
 import ru.naykalab.patterns.factory.pizza.Pizza;
 
 public class ChicagoPizzaStore extends PizzaStore {

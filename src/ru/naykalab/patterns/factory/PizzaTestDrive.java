@@ -1,5 +1,8 @@
 package ru.naykalab.patterns.factory;
 
+import ru.naykalab.patterns.factory.store.factoryMethod.ChicagoPizzaStore;
+import ru.naykalab.patterns.factory.store.factoryMethod.PizzaStore;
+import ru.naykalab.patterns.factory.store.factoryMethod.NYPizzaStore;
 import ru.naykalab.patterns.factory.pizza.Pizza;
 
 public class PizzaTestDrive {
