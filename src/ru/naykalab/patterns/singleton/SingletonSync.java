@@ -8,6 +8,7 @@ public class SingletonSync {
     }
     
     public static synchronized SingletonSync getInstance() {
+        
         if (instSingleton == null) {
             instSingleton = new SingletonSync();
         }
